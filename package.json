@@ -1,0 +1,8 @@
+{
+  "name": "football-cards-online",
+  "version": "1.0.0",
+  "description": "لعبة كروت كرة قدم أونلاين — العب مع صاحبك من أي مكان",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
